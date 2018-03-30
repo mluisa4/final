@@ -1,0 +1,108 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 5, 2018, 6:57:17 PM
+    Author     : c.rosario
+*/
+#cabecera{
+    font-family: Gadugi;
+    font-size:35px;
+    color:Red;
+    text-align: center;
+       }
+ul li{
+    list-style-type: none;
+    display:inline;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Gadugi;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 0px;
+    color:gray
+        
+    }
+    
+    #menu{
+        text-align: center;
+        font-family: Gadugi;
+        color: Gray;
+    } 
+    
+    
+    img{
+        border-radius: 20px;
+    } 
+    #cuerpo{
+        text-align: center;
+        font-family: Gadugi;
+        font-size: 28px;
+        color: gray;
+    } 
+    #pie{
+        background: #D8D8D8;
+        text-align: center;
+        font-weight: bold;
+    }
+    form{
+      margin: 0 auto;
+      width:700px;
+      background:  chartreuse;
+      padding: 5px;
+      border-radius: 10px;
+    }
+    h1{
+        text-align: center;
+    }
+    form div{
+        margin-bottom: 5px;
+    }
+    label{
+        font-family: Forte;
+        width:100px;
+        text-align: right;
+        display:inline;
+    }
+    input{
+        width: 200px;
+    }
+    textArea{
+        width: 400px;
+        vertical-align: middle;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+      color: gray;
+      font-size:30px;
+    }
+    a:visited{
+        color:gray;
+    }
+    
+    #block_1
+	{
+	float: left;
+	width: 34%;
+	margin-left: 33%;
+	}
+* html #block_1
+	{
+	display: inline;
+	}
+#block_2
+	{
+	float: left;
+	width: 33%;
+	margin-left: -67%;
+	}
+#block_3
+	{
+	float: left;
+	width: 33%;
+	}
+    
