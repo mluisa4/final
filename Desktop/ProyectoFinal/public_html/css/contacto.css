@@ -1,3 +1,35 @@
+
+
+#cabecera{
+    font-family: Gadugi;
+    font-size:35px;
+    color:Red;
+    text-align: center;
+       }
+
+ul li{
+    list-style-type: none;
+    display:inline;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Gadugi;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 0px;
+    color:gray
+        
+    }
+    
+    #menu{
+        text-align: center;
+        font-family: Gadugi;
+        color: Gray;
+    } 
+    
+
+
+
+
 #form{
        margin: 0 auto;
        width:700px;
@@ -9,8 +41,39 @@
      #ul{
          color:black;
          font-family: arial;
-         
-         
-         
+         widht: 800 px;
          
      }
+      textArea{
+        width: 400px;
+        vertical-align: middle;
+    }
+    
+     #block_1
+	{
+	float: left;
+	width: 34%;
+	margin-left: 33%;
+	}
+* html #block_1
+	{
+	display: inline;
+	}
+#block_2
+	{
+	float: left;
+	width: 33%;
+	margin-left: -67%;
+	}
+#block_3
+	{
+	float: left;
+	width: 33%;
+	}
+    
+        
+#pie{
+        background: #D8D8D8;
+        text-align: center;
+        font-weight: bold;
+    }
